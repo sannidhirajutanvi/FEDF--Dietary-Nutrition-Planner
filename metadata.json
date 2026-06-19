@@ -1,6 +1,0 @@
-{
-  "name": "Dietary & Nutrition Planner",
-  "description": "An automated patient meal planning, calorie assessment, and kitchen order management system designed for hospitals.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
